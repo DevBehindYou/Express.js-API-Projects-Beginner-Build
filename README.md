@@ -17,6 +17,8 @@ Each file is simple, readable, and can be run directly using Node.js + Express.
 
 ---
 
+### 📮 Use Postman to Test the APIs
+
 ### 🧪 Run It
 ```bash
 # Initialize your project
